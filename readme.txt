@@ -19,3 +19,4 @@ resolve issue-101
 test stash
 test stash dev finish
 resolve issue-102
+test stash no add
