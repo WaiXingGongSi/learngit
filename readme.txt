@@ -16,3 +16,5 @@ test dev
 test dev
 test dev
 resolve issue-101
+test stash
+test stash dev finish
