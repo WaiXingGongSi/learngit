@@ -18,3 +18,4 @@ test dev
 resolve issue-101
 test stash
 test stash dev finish
+resolve issue-102
