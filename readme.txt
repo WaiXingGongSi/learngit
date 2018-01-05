@@ -15,3 +15,5 @@ master and feature1.
 test dev
 test dev
 test dev
+test stash
+test stash dev finish
