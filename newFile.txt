@@ -4,3 +4,4 @@ testnewfile
 testnewfile
 feature1
 remote update
+remote rebase
