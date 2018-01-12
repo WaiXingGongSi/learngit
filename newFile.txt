@@ -3,3 +3,4 @@ testnewfile
 testnewfile
 testnewfile
 feature1
+remote update
